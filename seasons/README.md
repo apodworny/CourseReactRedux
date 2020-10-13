@@ -1,0 +1,1 @@
+A project created to show the difference between function components and class components, as well as state and lifecycle
