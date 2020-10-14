@@ -1,0 +1,1 @@
+A project created to show how to handle user input, how to make requests to external APIs, and how to display the results from the APIs
