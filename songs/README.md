@@ -1,0 +1,1 @@
+A project created to get some practice with Redux. Section 17.
