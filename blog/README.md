@@ -1,0 +1,1 @@
+A project that lists some blog posts. Created to get some practice with async actions with redux-thunk. Section 18.
