@@ -1,0 +1,1 @@
+A project created to show navigation with React Router, handle OAth authentication, handle forms with Redux Form, and create and use a video streaming Twitch REST API. Starts at section 20.
