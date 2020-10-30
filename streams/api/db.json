@@ -11,9 +11,8 @@
       "id": 2
     },
     {
-      "title": "I made this stream",
+      "title": "I made this stream!",
       "description": "Made by me",
-      "userId": "112779368067987660222",
       "id": 3
     },
     {
@@ -21,6 +20,12 @@
       "description": "test2",
       "userId": "112779368067987660222",
       "id": 4
+    },
+    {
+      "title": "Streaming component reuse",
+      "description": "Description here",
+      "userId": "112779368067987660222",
+      "id": 5
     }
   ]
 }
