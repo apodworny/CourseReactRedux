@@ -1,1 +1,1 @@
-A project created to understand the new context system in React, introduced in React 16. Also attempts to replace Redux with Context.
+A project created to understand the new context system in React, introduced in React 16. Also attempts to replace Redux with Context (even though it is not recommended).
